@@ -1,4 +1,4 @@
-#Scetch Weather__________________________________________________________________________
+#Sketch Weather__________________________________________________________________________
 
 #idea: A weather predictor model that can guess the weather of a particular location up
 #      to 14 days in advance with an 80% accuracy
@@ -10,7 +10,7 @@
 	#Store current models
 	#Acount for climate
 	#Store many models for many locations
-	#Have 80%+ acuracy for 14 days after
+	#Have 80%+ accuracy for 14 days after
 	#Scrape for data
 	#Find data sources
 	#Remove outliers
